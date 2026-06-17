@@ -1,5 +1,3 @@
-# business-partner
-
 **Business AI Consultant**
 ==========================
 
